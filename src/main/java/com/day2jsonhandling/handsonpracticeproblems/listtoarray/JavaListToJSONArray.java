@@ -3,7 +3,6 @@ package com.day2jsonhandling.handsonpracticeproblems.listtoarray;
 
 import com.day2jsonhandling.practiceproblems.listtojsonarray.Person;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.util.Arrays;
 import java.util.List;
 
