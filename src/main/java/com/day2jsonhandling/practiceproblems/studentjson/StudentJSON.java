@@ -8,7 +8,7 @@ public class StudentJSON{
     public static void main(String[] args) {
         JSONObject student = new JSONObject();
         student.put("name","Vidhi");
-        student.put("age","21");
+        student.put("age",21);
 
         JSONArray subjects = new JSONArray();
         subjects.put("Maths");
